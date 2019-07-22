@@ -1,4 +1,4 @@
-# Connect-4-Game
+# Connect Four Game
 This game is solely developed using the following front-end technologies: -
   1. HTML
   2. CSS
