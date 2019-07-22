@@ -1,0 +1,23 @@
+h1, h2, h3 {
+  text-align: center;
+}
+
+body{
+  font-family: 'Source Sans Pro', sans-serif;
+}
+table{
+  margin: auto;
+}
+
+td{
+  height: 80px;
+  width: 80px;
+}
+
+.circlewala{
+  height: 80px;
+  width: 80px;
+  background-color: #AFADAC;
+  border-radius: 60px;
+  border: 4px solid black;
+}
